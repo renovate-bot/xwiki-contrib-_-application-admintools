@@ -42,7 +42,7 @@
   <content>
 import com.xpn.xwiki.*;
 import com.xpn.xwiki.plugin.packaging.*;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 public class Test3 {
 
